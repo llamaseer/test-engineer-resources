@@ -2,12 +2,31 @@
 
 ## Technical Introductions
 
-### Browsers
+## Tools
 
-- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- [Firefox Dev Tools](https://firefox-dev.tools/) and [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - worth becoming very proficient in these if you do anything with web networking
+
+## Interactive Tutorials
+
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) - get an intuitive understanding of what branches and commits and what merging and cherrypicking does
+
+- [Kubernetes](https://kubernetes.io/docs/tutorials/) - official Kubernetes docs are pretty good, and give you actual environment to run commands in
+
+- [PostgreSQL Exercises](https://pgexercises.com/) - not particularly guided (although there are hints and answers) but has some good problems for practicing SQL and ability to run queuries
+
+- [Postgres Playground](https://www.crunchydata.com/developers/tutorials) - some nice short tutorials with a postgres console alongside
 
 
 ## Books
+
+- [Release it!](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard - explains how software can fail and how to make it robust
+
+- [Obey the Testing Goat!](https://www.obeythetestinggoat.com/)  by Harry J.W. Percival - TDD explained with a hands-on tutorial using the Python Djanjo web framework
+
+- [Designing Data-Intensive Applications](https://dataintensive.net/) by Martin Kleppman - deep dive on making performant database decisions
+
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) by David Thomas, Andrew Hunt - making good programming decisions while being realistic about efficiency and tradeoffs
+
 
 
 ## Podcasts
