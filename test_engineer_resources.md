@@ -27,16 +27,29 @@
 
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) by David Thomas, Andrew Hunt - making good programming decisions while being realistic about efficiency and tradeoffs
 
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434) by Gene Kim, Kevin Behr, George Spafford
 
 
-## Podcasts
+## Communities
+
+[Ministry of Testing](https://www.ministryoftesting.com/)
+
+[StackExchange: Software Quality Assurance & Testing](https://sqa.stackexchange.com/) 
+
+
+# Podcasts
+
+- [Software Engineering Radio](https://www.se-radio.net/)
+
+
+## Podcast Episodes
 
 - [SE-Radio Episode 283: Alexander Tarlinder on Developer Testing](https://www.se-radio.net/2017/03/se-radio-episode-283-alexander-tarlinder-on-developer-testing/)
 - [SE-Radio Episode 256: Jay Fields on Working Effectively with Unit Tests](https://www.se-radio.net/2016/05/se-radio-episode-256-jay-fields-on-working-effectively-with-unit-tests/)
 - [SE-Radio Episode 322: Bill Venners on Property Based Tests](https://www.se-radio.net/2018/05/se-radio-episode-322-bill-venners-on-property-based-tests/)
 - [Episode 164: Agile Testing with Lisa Crispin](https://www.se-radio.net/2010/06/episode-164-agile-testing-with-lisa-crispin/)
 - [Episode 461: Michael Ashburne and Maxwell Huffman on Quality Assurance](https://www.se-radio.net/2021/05/episode-461-michael-ashburne-and-maxwell-huffman-on-quality-assurance/)
-- [366: Test Automation](https://www.se-radio.net/2019/05/366-test-automation/) - introduction
+- [366: Test Automation](https://www.se-radio.net/2019/05/366-test-automation/)
 - [Episode 150: Software Craftsmanship with Bob Martin](https://www.se-radio.net/2009/11/episode-150-software-craftsmanship-with-bob-martin/)
 - [SE Radio 564: Paul Hammant on Trunk-Based Development](https://www.se-radio.net/2023/05/se-radio-564-paul-hammant-on-trunk-based-development/)
 - [Episode 367: Diomidis Spinellis on Debugging](https://www.se-radio.net/2019/05/3544/)
