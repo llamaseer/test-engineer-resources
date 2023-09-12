@@ -29,12 +29,18 @@
 
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434) by Gene Kim, Kevin Behr, George Spafford
 
+- [Cracking the Coding Interview](https://www.thriftbooks.com/w/cracking-the-coding-interview_gayle-laakmann-mcdowell/256992/item/41575011/) - classic prep book for coding interviews (including by interviewers)
+
+- [Fluent Python](https://www.fluentpython.com/) by Luciano Rmalho - covers lots of ground in langauge features in the core philosophy of writing idiomatic python code
+
 
 ## Communities
 
-[Ministry of Testing](https://www.ministryoftesting.com/)
+- [Ministry of Testing](https://www.ministryoftesting.com/)
 
-[StackExchange: Software Quality Assurance & Testing](https://sqa.stackexchange.com/) 
+- [StackExchange: Software Quality Assurance & Testing](https://sqa.stackexchange.com/) 
+
+- [LeetCode](https://leetcode.com/) - practice programming questions in many languages, good for coding interview preparation
 
 
 # Podcasts
