@@ -34,6 +34,8 @@ An expanding list of resources supportive of testing in software that I have per
 
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434) by Gene Kim, Kevin Behr, George Spafford
 
+- [Google Site Reliability Engineering](https://sre.google/books/) - several books (free online) that describe practices for maintaining a robust production environment
+
 - [Fluent Python](https://www.fluentpython.com/) by Luciano Rmalho - covers lots of ground in langauge features in the core philosophy of writing idiomatic python code
 
 - [Architecture Patterns with Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/) - shows how to implement a full service architecture with emphasis on test driven development, refactoring, and domain-driven design. Many good references to other valuable reading along the way. 
