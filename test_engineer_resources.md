@@ -1,3 +1,7 @@
+# Software Developer Test Engineer Resources
+
+An expanding list of resources supportive of testing in software that I have personally found useful or interesting.
+
 # Tools
 
 - [Firefox Dev Tools](https://firefox-dev.tools/) and [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - worth becoming very knowledgable in these if you do anything with web development
@@ -20,19 +24,23 @@
 
 # Books
 
-- [Release it!](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard - explains how software can fail and how to make it robust
+- [Release it!](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard - explains how software can fail and how to make it robust, with many real examples.
 
 - [Obey the Testing Goat!](https://www.obeythetestinggoat.com/)  by Harry J.W. Percival - Test Driven Development explained with a hands-on tutorial using Python's Django web framework
 
-- [Designing Data-Intensive Applications](https://dataintensive.net/) by Martin Kleppman - deep dive on making performant database decisions
-
 - [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) by David Thomas, Andrew Hunt - making good programming decisions while being realistic about efficiency and tradeoffs
+
+- [Designing Data-Intensive Applications](https://dataintensive.net/) by Martin Kleppman - deep dive on making performant database decisions
 
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.barnesandnoble.com/w/the-phoenix-project-gene-kim/1115141434) by Gene Kim, Kevin Behr, George Spafford
 
-- [Cracking the Coding Interview](https://www.thriftbooks.com/w/cracking-the-coding-interview_gayle-laakmann-mcdowell/256992/item/41575011/) - classic prep book for coding interviews (used also by interviewers)
-
 - [Fluent Python](https://www.fluentpython.com/) by Luciano Rmalho - covers lots of ground in langauge features in the core philosophy of writing idiomatic python code
+
+- [Architecture Patterns with Python](https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/) - shows how to implement a full service architecture with emphasis on test driven development, refactoring, and domain-driven design. Many good references to other valuable reading along the way. 
+
+- [Practical Object-oriented Design: An Agile Primer Using Ruby](https://www.poodr.com/) - primarily used this as a nice light introduction to Ruby, but has pretty good discussion of well-designed classes with emphasis on how to refactor.
+
+- [Cracking the Coding Interview](https://www.thriftbooks.com/w/cracking-the-coding-interview_gayle-laakmann-mcdowell/256992/item/41575011/) - classic prep book for coding interviews (used also by interviewers)
 
 
 # Communities
@@ -102,3 +110,9 @@
 - [SE-Radio Episode 101: Andreas Zeller on Debugging](https://www.se-radio.net/2008/06/episode-101-andreas-zeller-on-debugging/)
 
 - [SE-Radio Episode 404: Bert Hubert on DNS Security](https://www.se-radio.net/2020/03/episode-404-bert-hubert-on-dns-security/)
+
+
+
+# Miscellaneous
+
+- [List of Post-Mortems](https://github.com/danluu/post-mortems) - contains links to various tech company post-mortems. Good way to develop intuition for what can go wrong.
